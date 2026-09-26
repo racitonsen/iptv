@@ -594,9 +594,9 @@ https://tvspas.mediacdn.ru/cdn/spas/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportivnyy.ru@SD",Sportivnyy (1080p)
 https://live-3.otcnet.ru/sportivny/index.m3u8
 #EXTINF:-1 tvg-id="StarCinema.ru@SD",Star Cinema
-https://dash2.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
+https://dash4.antik.sk/live/test_star_cinema_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="StarFamily.ru@SD",Star Family (1080p)
-https://dash2.antik.sk/live/test_star_family_atktv/playlist.m3u8
+https://dash4.antik.sk/live/test_star_family_atktv/playlist.m3u8
 #EXTINF:-1 tvg-id="STARTAir.ru@SD",START Air (576p)
 http://stream.mcquack.net/128/index.m3u8
 #EXTINF:-1 tvg-id="STS.ru@SD",STS (576p)
@@ -1679,7 +1679,7 @@ http://str2.iptvhd.ru:8080/Match_Arena/index.m3u8
 http://str2.iptvhd.ru:8080/Match_Igra_HD/index.m3u8
 #EXTINF:-1 tvg-id="MatchBoets.ru@SD",Match! Boets (576p)
 http://str2.iptvhd.ru:8080/Match_Boets/index.m3u8
-#EXTINF:-1 tvg-id="Carousel.ru@SD",Carousel (576p)
+#EXTINF:-1 tvg-id="CarouselInternational.ru@SD",Carousel International (576p)
 http://88.212.15.19/live/test_karusel/playlist.m3u8
 #EXTINF:-1 tvg-id="Vremya.ru@SD",Vremya (576p)
 http://88.212.15.19/live/test_vremya/playlist.m3u8
